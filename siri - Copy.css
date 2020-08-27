@@ -1,0 +1,40 @@
+ul {
+    width: 100%;
+    background: lightcoral;
+}
+li {
+    display:inline-block;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: lightgray;
+    padding: 10px;
+    transition: ease-in-out 0.3s
+    
+}
+a {
+    text-decoration: none;
+}
+
+li:hover{
+    background: rgba(18, 26, 122, 0.418);
+    font-size:25px;
+}
+body{
+    background-image: url("download.jpg");
+    background-repeat: no-repeat;
+    background-size: 1350px ;
+    opacity: 1.0;
+}
+.bla{
+    margin-top: 100px;
+}
+h1 {font-family: 'Roboto Condensed', sans-serif;
+      color:red;
+}
+h2 {font-family: 'Roboto Condensed', sans-serif;
+    color:rgb(35, 44, 129);
+}
+h3{
+    font-size: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
