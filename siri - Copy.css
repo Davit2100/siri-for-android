@@ -24,6 +24,7 @@ body{
     background-repeat: no-repeat;
     background-size: 100% ;
     opacity: 1.0;
+    background-position: center;
 }
 .bla{
     margin-top: 100px;
